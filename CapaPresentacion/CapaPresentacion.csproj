@@ -1,0 +1,1157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CE5FEE3B-6163-464A-9225-3530D03F4D0D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clientes\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmCategoria_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmCategoria_Cliente.Designer.cs">
+      <DependentUpon>frmCategoria_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmCliente.Designer.cs">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmClienteBuscarxNombre.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmClienteBuscarxNombre.Designer.cs">
+      <DependentUpon>frmClienteBuscarxNombre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmClientesBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmClientesBuscar.Designer.cs">
+      <DependentUpon>frmClientesBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\FrmClientesTab.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\FrmClientesTab.Designer.cs">
+      <DependentUpon>FrmClientesTab.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_Contacto_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_Contacto_Buscar.Designer.cs">
+      <DependentUpon>frmCliente_Contacto_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_Lugar_Entrega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_Lugar_Entrega.Designer.cs">
+      <DependentUpon>frmCliente_Lugar_Entrega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_PuntoPartida_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmCliente_PuntoPartida_Buscar.Designer.cs">
+      <DependentUpon>frmCliente_PuntoPartida_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmFactura.Designer.cs">
+      <DependentUpon>frmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmTipo_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmTipo_Cliente.Designer.cs">
+      <DependentUpon>frmTipo_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes\frmActividad_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes\frmActividad_Cliente.Designer.cs">
+      <DependentUpon>frmActividad_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa\frmAcceso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresa\frmAcceso.Designer.cs">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa\frmEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empresa\frmEmpresa.Designer.cs">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Lubricantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Lubricantes.Designer.cs">
+      <DependentUpon>frmCompra_Lubricantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Lubricantes_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Lubricantes_Buscar.Designer.cs">
+      <DependentUpon>frmCompra_Lubricantes_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmCompra_Productos.Designer.cs">
+      <DependentUpon>frmCompra_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmConsumo_Lubricante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmConsumo_Lubricante.Designer.cs">
+      <DependentUpon>frmConsumo_Lubricante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Grupos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Grupos.Designer.cs">
+      <DependentUpon>frmMantenimiento_Grupos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Grupo_Actividades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Grupo_Actividades.Designer.cs">
+      <DependentUpon>frmMantenimiento_Grupo_Actividades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Programado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmMantenimiento_Programado.Designer.cs">
+      <DependentUpon>frmMantenimiento_Programado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\Mantenimiemto_Correctivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\Mantenimiemto_Correctivo.designer.cs">
+      <DependentUpon>Mantenimiemto_Correctivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mantenimiento\Mantenimiemto_Preventivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\Mantenimiemto_Preventivo.Designer.cs">
+      <DependentUpon>Mantenimiemto_Preventivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MDIMenuOperaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIMenuOperaciones.Designer.cs">
+      <DependentUpon>MDIMenuOperaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmCombustible_Compra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmCombustible_Compra.Designer.cs">
+      <DependentUpon>frmCombustible_Compra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmCombustible_Compra_Mant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmCombustible_Compra_Mant.Designer.cs">
+      <DependentUpon>frmCombustible_Compra_Mant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Apoyo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Apoyo.Designer.cs">
+      <DependentUpon>frmRecojo_Apoyo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Ayudante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Ayudante.Designer.cs">
+      <DependentUpon>frmRecojo_Ayudante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Combustible_Importe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Combustible_Importe.Designer.cs">
+      <DependentUpon>frmRecojo_Combustible_Importe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Gasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Gasto.Designer.cs">
+      <DependentUpon>frmRecojo_Gasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Nota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Nota.Designer.cs">
+      <DependentUpon>frmRecojo_Nota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Peaje.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Peaje.Designer.cs">
+      <DependentUpon>frmRecojo_Peaje.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmGuia_Transportista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmGuia_Transportista.Designer.cs">
+      <DependentUpon>frmGuia_Transportista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Detalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Detalle.Designer.cs">
+      <DependentUpon>frmRecojo_Detalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Recargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmRecojo_Recargo.Designer.cs">
+      <DependentUpon>frmRecojo_Recargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetCombustible.cs">
+      <DependentUpon>DataSetCombustible.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSetCombustible.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCombustible.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetCompra_Lubricantes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCompra_Lubricantes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetCompra_Productos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetCompra_Productos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetConsumo_Lubricantes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetConsumo_Lubricantes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetMaestro_Personal.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMaestro_Personal.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetMant_Correctivo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMant_Correctivo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetMant_Preventivo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetMant_Preventivo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenesRecojo.cs">
+      <DependentUpon>DataSetOrdenesRecojo.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenesRecojo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenesRecojo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenes_Cliente.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenes_Cliente.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenes_Conductor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenes_Conductor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenes_Estados.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenes_Estados.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenes_Total_Conductor.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenes_Total_Conductor.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DataSetOrdenes_Vehiculo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetOrdenes_Vehiculo.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\frmOrdenes_Reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\frmOrdenes_Reportes.Designer.cs">
+      <DependentUpon>frmOrdenes_Reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptCombustible.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptCombustible.Designer.cs">
+      <DependentUpon>rptCombustible.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptCompra_Lubricantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptCompra_Lubricantes.Designer.cs">
+      <DependentUpon>rptCompra_Lubricantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptCompra_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptCompra_Productos.Designer.cs">
+      <DependentUpon>rptCompra_Productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptConsumo_Lubricante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptConsumo_Lubricante.Designer.cs">
+      <DependentUpon>rptConsumo_Lubricante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptMaestro_Personal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptMaestro_Personal.Designer.cs">
+      <DependentUpon>rptMaestro_Personal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptMant_Correctivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptMant_Correctivo.Designer.cs">
+      <DependentUpon>rptMant_Correctivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptMant_Preventivo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptMant_Preventivo.Designer.cs">
+      <DependentUpon>rptMant_Preventivo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenesRecojo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenesRecojo.Designer.cs">
+      <DependentUpon>rptOrdenesRecojo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Cliente.Designer.cs">
+      <DependentUpon>rptOrdenes_Cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Conductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Conductor.Designer.cs">
+      <DependentUpon>rptOrdenes_Conductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Estado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Estado.Designer.cs">
+      <DependentUpon>rptOrdenes_Estado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Total_Conductor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Total_Conductor.Designer.cs">
+      <DependentUpon>rptOrdenes_Total_Conductor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Vehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptOrdenes_Vehiculo.Designer.cs">
+      <DependentUpon>rptOrdenes_Vehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Tablas\frmBuscarLocalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmBuscarLocalidad.Designer.cs">
+      <DependentUpon>frmBuscarLocalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmCodigo_Veh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmCodigo_Veh.Designer.cs">
+      <DependentUpon>frmCodigo_Veh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Orden_Recojo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Orden_Recojo.Designer.cs">
+      <DependentUpon>frmSerie_Orden_Recojo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmActividad_Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmActividad_Proveedor.Designer.cs">
+      <DependentUpon>frmActividad_Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmCategoria_Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmCategoria_Proveedor.Designer.cs">
+      <DependentUpon>frmCategoria_Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmProveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmProveedor.Designer.cs">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmProveedorBuscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmProveedorBuscar.Designer.cs">
+      <DependentUpon>frmProveedorBuscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Proveedores\frmTipo_Proveedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Proveedores\frmTipo_Proveedor.Designer.cs">
+      <DependentUpon>frmTipo_Proveedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Recojo\frmOrdenRecojo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Recojo\frmOrdenRecojo.designer.cs">
+      <DependentUpon>frmOrdenRecojo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmAlmacen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmAlmacen.Designer.cs">
+      <DependentUpon>frmAlmacen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmArticulo.Designer.cs">
+      <DependentUpon>frmArticulo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmCargo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmCargo.Designer.cs">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmColor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmColor.Designer.cs">
+      <DependentUpon>frmColor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmCombustible_Importe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmCombustible_Importe.Designer.cs">
+      <DependentUpon>frmCombustible_Importe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmConcepto_Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmConcepto_Factura.Designer.cs">
+      <DependentUpon>frmConcepto_Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmGasto_Operacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmGasto_Operacion.Designer.cs">
+      <DependentUpon>frmGasto_Operacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmLocalidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmLocalidad.Designer.cs">
+      <DependentUpon>frmLocalidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmMarca_Vehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmMarca_Vehiculo.Designer.cs">
+      <DependentUpon>frmMarca_Vehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmPais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmPais.Designer.cs">
+      <DependentUpon>frmPais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Facturacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Facturacion.Designer.cs">
+      <DependentUpon>frmSerie_Facturacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Guia_Remision.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmSerie_Guia_Remision.Designer.cs">
+      <DependentUpon>frmSerie_Guia_Remision.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Documento_Identidad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Documento_Identidad.Designer.cs">
+      <DependentUpon>frmTipo_Documento_Identidad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Producto.Designer.cs">
+      <DependentUpon>frmTipo_Producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Vehiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmTipo_Vehiculo.Designer.cs">
+      <DependentUpon>frmTipo_Vehiculo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmUnidad_Medida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmUnidad_Medida.Designer.cs">
+      <DependentUpon>frmUnidad_Medida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmZona_Geografica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmZona_Geografica.Designer.cs">
+      <DependentUpon>frmZona_Geografica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tablas\frmVendedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tablas\frmVendedor.Designer.cs">
+      <DependentUpon>frmVendedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transportista\frmTrabajador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportista\frmTrabajador.Designer.cs">
+      <DependentUpon>frmTrabajador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista.Designer.cs">
+      <DependentUpon>frmTransportista.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Buscar.Designer.cs">
+      <DependentUpon>frmTransportista_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Chofer_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Chofer_Buscar.Designer.cs">
+      <DependentUpon>frmTransportista_Chofer_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Vehiculo_Buscar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportista\frmTransportista_Vehiculo_Buscar.Designer.cs">
+      <DependentUpon>frmTransportista_Vehiculo_Buscar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VarGlobales.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Clientes\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmActividad_Cliente.resx">
+      <DependentUpon>frmActividad_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCategoria_Cliente.resx">
+      <DependentUpon>frmCategoria_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCliente.es-PE.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCliente.resx">
+      <DependentUpon>frmCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmClienteBuscarxNombre.resx">
+      <DependentUpon>frmClienteBuscarxNombre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmClientesBuscar.resx">
+      <DependentUpon>frmClientesBuscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\FrmClientesTab.resx">
+      <DependentUpon>FrmClientesTab.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCliente_Contacto_Buscar.resx">
+      <DependentUpon>frmCliente_Contacto_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCliente_Lugar_Entrega.resx">
+      <DependentUpon>frmCliente_Lugar_Entrega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmCliente_PuntoPartida_Buscar.resx">
+      <DependentUpon>frmCliente_PuntoPartida_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmFactura.resx">
+      <DependentUpon>frmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Clientes\frmTipo_Cliente.resx">
+      <DependentUpon>frmTipo_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresa\frmAcceso.resx">
+      <DependentUpon>frmAcceso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empresa\frmEmpresa.resx">
+      <DependentUpon>frmEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmCompra_Lubricantes.resx">
+      <DependentUpon>frmCompra_Lubricantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmCompra_Lubricantes_Buscar.resx">
+      <DependentUpon>frmCompra_Lubricantes_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmCompra_Productos.resx">
+      <DependentUpon>frmCompra_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmConsumo_Lubricante.resx">
+      <DependentUpon>frmConsumo_Lubricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmMantenimiento_Grupos.resx">
+      <DependentUpon>frmMantenimiento_Grupos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmMantenimiento_Grupo_Actividades.resx">
+      <DependentUpon>frmMantenimiento_Grupo_Actividades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmMantenimiento_Programado.resx">
+      <DependentUpon>frmMantenimiento_Programado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\Mantenimiemto_Correctivo.resx">
+      <DependentUpon>Mantenimiemto_Correctivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\Mantenimiemto_Preventivo.resx">
+      <DependentUpon>Mantenimiemto_Preventivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIMenuOperaciones.resx">
+      <DependentUpon>MDIMenuOperaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmCombustible_Compra.resx">
+      <DependentUpon>frmCombustible_Compra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmCombustible_Compra_Mant.resx">
+      <DependentUpon>frmCombustible_Compra_Mant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Apoyo.resx">
+      <DependentUpon>frmRecojo_Apoyo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Ayudante.resx">
+      <DependentUpon>frmRecojo_Ayudante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Combustible_Importe.es-PE.resx">
+      <DependentUpon>frmRecojo_Combustible_Importe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Combustible_Importe.resx">
+      <DependentUpon>frmRecojo_Combustible_Importe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Gasto.resx">
+      <DependentUpon>frmRecojo_Gasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Nota.resx">
+      <DependentUpon>frmRecojo_Nota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Peaje.resx">
+      <DependentUpon>frmRecojo_Peaje.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmGuia_Transportista.resx">
+      <DependentUpon>frmGuia_Transportista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Detalle.resx">
+      <DependentUpon>frmRecojo_Detalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmRecojo_Recargo.resx">
+      <DependentUpon>frmRecojo_Recargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\frmOrdenes_Reportes.resx">
+      <DependentUpon>frmOrdenes_Reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReportCombustible.rdlc" />
+    <EmbeddedResource Include="Reportes\rptCombustible.resx">
+      <DependentUpon>rptCombustible.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptCompra_Lubricantes.rdlc" />
+    <EmbeddedResource Include="Reportes\rptCompra_Lubricantes.resx">
+      <DependentUpon>rptCompra_Lubricantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptCompra_Productos.rdlc" />
+    <EmbeddedResource Include="Reportes\rptCompra_Productos.resx">
+      <DependentUpon>rptCompra_Productos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptConsumo_Lubricante.rdlc" />
+    <EmbeddedResource Include="Reportes\rptConsumo_Lubricante.resx">
+      <DependentUpon>rptConsumo_Lubricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptMaestro_Personal.rdlc" />
+    <EmbeddedResource Include="Reportes\rptMaestro_Personal.resx">
+      <DependentUpon>rptMaestro_Personal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptMant_Correctivo.rdlc" />
+    <EmbeddedResource Include="Reportes\rptMant_Correctivo.resx">
+      <DependentUpon>rptMant_Correctivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptMant_Preventivo.rdlc" />
+    <EmbeddedResource Include="Reportes\rptMant_Preventivo.resx">
+      <DependentUpon>rptMant_Preventivo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenesRecojo.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenesRecojo.resx">
+      <DependentUpon>rptOrdenesRecojo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenes_Cliente.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenes_Cliente.resx">
+      <DependentUpon>rptOrdenes_Cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenes_Conductor.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenes_Conductor.resx">
+      <DependentUpon>rptOrdenes_Conductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenes_Estado.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenes_Estado.resx">
+      <DependentUpon>rptOrdenes_Estado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenes_Total_Conductor.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenes_Total_Conductor.resx">
+      <DependentUpon>rptOrdenes_Total_Conductor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptOrdenes_Vehiculo.rdlc" />
+    <EmbeddedResource Include="Reportes\rptOrdenes_Vehiculo.resx">
+      <DependentUpon>rptOrdenes_Vehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmBuscarLocalidad.resx">
+      <DependentUpon>frmBuscarLocalidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmCodigo_Veh.resx">
+      <DependentUpon>frmCodigo_Veh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmSerie_Orden_Recojo.resx">
+      <DependentUpon>frmSerie_Orden_Recojo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmActividad_Proveedor.resx">
+      <DependentUpon>frmActividad_Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmCategoria_Proveedor.resx">
+      <DependentUpon>frmCategoria_Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmProveedor.resx">
+      <DependentUpon>frmProveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmProveedorBuscar.resx">
+      <DependentUpon>frmProveedorBuscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Proveedores\frmTipo_Proveedor.resx">
+      <DependentUpon>frmTipo_Proveedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recojo\frmOrdenRecojo.resx">
+      <DependentUpon>frmOrdenRecojo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmAlmacen.resx">
+      <DependentUpon>frmAlmacen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmArticulo.resx">
+      <DependentUpon>frmArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmCargo.resx">
+      <DependentUpon>frmCargo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmColor.resx">
+      <DependentUpon>frmColor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmCombustible_Importe.resx">
+      <DependentUpon>frmCombustible_Importe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmConcepto_Factura.resx">
+      <DependentUpon>frmConcepto_Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmGasto_Operacion.resx">
+      <DependentUpon>frmGasto_Operacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmLocalidad.resx">
+      <DependentUpon>frmLocalidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmMarca_Vehiculo.resx">
+      <DependentUpon>frmMarca_Vehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmPais.resx">
+      <DependentUpon>frmPais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmSerie_Facturacion.resx">
+      <DependentUpon>frmSerie_Facturacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmSerie_Guia_Remision.resx">
+      <DependentUpon>frmSerie_Guia_Remision.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmTipo_Documento_Identidad.resx">
+      <DependentUpon>frmTipo_Documento_Identidad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmTipo_Producto.resx">
+      <DependentUpon>frmTipo_Producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmTipo_Vehiculo.resx">
+      <DependentUpon>frmTipo_Vehiculo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmUnidad_Medida.resx">
+      <DependentUpon>frmUnidad_Medida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmZona_Geografica.resx">
+      <DependentUpon>frmZona_Geografica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tablas\frmVendedor.resx">
+      <DependentUpon>frmVendedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transportista\frmTrabajador.resx">
+      <DependentUpon>frmTrabajador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transportista\frmTransportista.resx">
+      <DependentUpon>frmTransportista.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transportista\frmTransportista_Buscar.resx">
+      <DependentUpon>frmTransportista_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transportista\frmTransportista_Chofer_Buscar.resx">
+      <DependentUpon>frmTransportista_Chofer_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transportista\frmTransportista_Vehiculo_Buscar.resx">
+      <DependentUpon>frmTransportista_Vehiculo_Buscar.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaBC\CapaBC.csproj">
+      <Project>{dfbfcfc3-f697-4c0a-96c4-99e77c1ddfc6}</Project>
+      <Name>CapaBC</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaBE\CapaBE.csproj">
+      <Project>{9f527459-6453-4dc9-be88-7121fc1c339a}</Project>
+      <Name>CapaBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaDA\CapaDA.csproj">
+      <Project>{e30fc8aa-feaa-4d5d-85f7-9a8995ebc8df}</Project>
+      <Name>CapaDA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetCombustible.xsc">
+      <DependentUpon>DataSetCombustible.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetCombustible.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCombustible.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetCombustible.xss">
+      <DependentUpon>DataSetCombustible.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetCompra_Lubricantes.xsc">
+      <DependentUpon>DataSetCompra_Lubricantes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetCompra_Lubricantes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCompra_Lubricantes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetCompra_Lubricantes.xss">
+      <DependentUpon>DataSetCompra_Lubricantes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetCompra_Productos.xsc">
+      <DependentUpon>DataSetCompra_Productos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetCompra_Productos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetCompra_Productos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetCompra_Productos.xss">
+      <DependentUpon>DataSetCompra_Productos.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetConsumo_Lubricantes.xsc">
+      <DependentUpon>DataSetConsumo_Lubricantes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetConsumo_Lubricantes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetConsumo_Lubricantes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetConsumo_Lubricantes.xss">
+      <DependentUpon>DataSetConsumo_Lubricantes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMaestro_Personal.xsc">
+      <DependentUpon>DataSetMaestro_Personal.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMaestro_Personal.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMaestro_Personal.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetMaestro_Personal.xss">
+      <DependentUpon>DataSetMaestro_Personal.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMant_Correctivo.xsc">
+      <DependentUpon>DataSetMant_Correctivo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMant_Correctivo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMant_Correctivo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetMant_Correctivo.xss">
+      <DependentUpon>DataSetMant_Correctivo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMant_Preventivo.xsc">
+      <DependentUpon>DataSetMant_Preventivo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetMant_Preventivo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetMant_Preventivo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetMant_Preventivo.xss">
+      <DependentUpon>DataSetMant_Preventivo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenesRecojo.xsc">
+      <DependentUpon>DataSetOrdenesRecojo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenesRecojo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenesRecojo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenesRecojo.xss">
+      <DependentUpon>DataSetOrdenesRecojo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Cliente.xsc">
+      <DependentUpon>DataSetOrdenes_Cliente.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Cliente.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenes_Cliente.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Cliente.xss">
+      <DependentUpon>DataSetOrdenes_Cliente.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Conductor.xsc">
+      <DependentUpon>DataSetOrdenes_Conductor.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Conductor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenes_Conductor.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Conductor.xss">
+      <DependentUpon>DataSetOrdenes_Conductor.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Estados.xsc">
+      <DependentUpon>DataSetOrdenes_Estados.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Estados.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenes_Estados.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Estados.xss">
+      <DependentUpon>DataSetOrdenes_Estados.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Total_Conductor.xsc">
+      <DependentUpon>DataSetOrdenes_Total_Conductor.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Total_Conductor.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenes_Total_Conductor.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Total_Conductor.xss">
+      <DependentUpon>DataSetOrdenes_Total_Conductor.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Vehiculo.xsc">
+      <DependentUpon>DataSetOrdenes_Vehiculo.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Vehiculo.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetOrdenes_Vehiculo.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DataSetOrdenes_Vehiculo.xss">
+      <DependentUpon>DataSetOrdenes_Vehiculo.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\Buscar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\aceptar30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_exit.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buscar_p.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir30px.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnuevo.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\beditar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bborrar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bcancelar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgrabar.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bsalir.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bnuevo1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\atras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sisvent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WZPRINT.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\apply.png" />
+    <Content Include="Resources\bcortar.bmp" />
+    <Content Include="Resources\Box.png" />
+    <Content Include="Resources\b_details.gif" />
+    <Content Include="Resources\b_refresh.gif" />
+    <Content Include="Resources\caja_m.png" />
+    <Content Include="Resources\Carpeta.bmp" />
+    <Content Include="Resources\detalle.bmp" />
+    <Content Include="Resources\disco.png" />
+    <Content Include="Resources\edit.png" />
+    <Content Include="Resources\editcut.png" />
+    <Content Include="Resources\Facturado.bmp" />
+    <None Include="Resources\full color.png" />
+    <Content Include="Resources\hand.bmp" />
+    <Content Include="Resources\lock.png" />
+    <None Include="Resources\logo reducido.jpg" />
+    <Content Include="Resources\logo-ur-sac-ConvertImage.ico" />
+    <Content Include="Resources\modificar.png" />
+    <Content Include="Resources\refresh.bmp" />
+    <Content Include="Resources\Registro.bmp" />
+    <Content Include="Resources\report.png" />
+    <None Include="Resources\terah logo.jpg" />
+    <Content Include="Resources\unlock.png" />
+    <Content Include="Resources\XP-OK.GIF" />
+    <None Include="Resources\TERAH.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,27 @@
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Release\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Release\CapaBC.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Release\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Release\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Release\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Release\CapaBC.csprojResolveAssemblyReference.cache
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Release\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Release\CapaBC.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaBC.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaBC.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaBE.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaDA.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaBE.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\bin\Release\CapaDA.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\obj\Release\CapaBC.csprojResolveAssemblyReference.cache
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\obj\Release\CapaBC.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaBC\obj\Release\CapaBC.pdb

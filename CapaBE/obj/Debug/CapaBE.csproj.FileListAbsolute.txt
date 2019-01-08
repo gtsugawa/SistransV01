@@ -1,0 +1,20 @@
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaBE\bin\Debug\CapaBE.pdb
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaBE\obj\Debug\CapaBE.dll
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaBE\obj\Debug\CapaBE.pdb
+D:\Visual C#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll
+D:\Visual C#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.pdb
+D:\Visual C#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.dll
+D:\Visual C#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Debug\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll.CodeAnalysisLog.xml
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Debug\CapaBE.dll.lastcodeanalysissucceeded

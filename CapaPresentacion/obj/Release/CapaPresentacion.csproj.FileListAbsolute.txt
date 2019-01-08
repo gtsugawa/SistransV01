@@ -1,0 +1,256 @@
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaPresentacion.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\es-PE\CapaPresentacion.resources.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\bin\Release\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmActividad_Cliente.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCategoria_Cliente.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClienteBuscarxNombre.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmClientes.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClientesBuscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.FrmClientesTab.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_Contacto_Buscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_PuntoPartida_Buscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmFactura.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Ayudante.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Combustible_Importe.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Gasto.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Nota.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmRecojo_Peaje.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmGuia_Transportista.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Detalle.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmSerie_Orden_Recojo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmActividad_Proveedor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCategoria_Proveedor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedorBuscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmTipo_Proveedor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmOrdenRecojo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmAlmacen.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmArticulo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCargo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmColor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCombustible_Importe.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmConcepto_Factura.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmGasto_Operacion.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmLocalidad.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmMarca_Vehiculo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmPais.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Facturacion.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Guia_Remision.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Documento_Identidad.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Producto.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Vehiculo.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmUnidad_Medida.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmZona_Geografica.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmVendedor.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Buscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Chofer_Buscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Vehiculo_Buscar.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.es-PE.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.Cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\es-PE\CapaPresentacion.resources.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaPresentacion.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\es-PE\CapaPresentacion.resources.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmActividad_Cliente.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCategoria_Cliente.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClienteBuscarxNombre.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmClientes.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClientesBuscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.FrmClientesTab.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_Contacto_Buscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_PuntoPartida_Buscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmFactura.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmEmpresa.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Ayudante.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Combustible_Importe.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Gasto.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Nota.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmRecojo_Peaje.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmGuia_Transportista.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Detalle.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmSerie_Orden_Recojo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmActividad_Proveedor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCategoria_Proveedor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedorBuscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmTipo_Proveedor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.frmOrdenRecojo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmAlmacen.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmArticulo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCargo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmColor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCombustible_Importe.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmConcepto_Factura.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmGasto_Operacion.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmLocalidad.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmMarca_Vehiculo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmPais.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Facturacion.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Guia_Remision.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Documento_Identidad.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Producto.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Vehiculo.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmUnidad_Medida.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmZona_Geografica.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmVendedor.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Buscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Chofer_Buscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Vehiculo_Buscar.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.es-PE.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.Cache
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\es-PE\CapaPresentacion.resources.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.MDIMenuOperaciones.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmAcceso.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmTipo_Cliente.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmTipo_Cliente.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmAcceso.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmEmpresa.resources
+D:\Fuentes\VisualC#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.MDIMenuOperaciones.resources
+C:\fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Recargo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.Form1.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_Lugar_Entrega.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Apoyo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmBuscarLocalidad.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCodigo_Veh.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCombustible_Compra.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCombustible_Mant.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\RdlCompile.cache
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\RdlCompile.compiled
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptCombustible.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenesRecojo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptMant_Correctivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.Mantenimiemto_Preventivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.Mantenimiemto_Correctivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptMant_Preventivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmMantenimiento_Grupos.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmMantenimiento_Grupo_Actividades.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaPresentacion.dll.config
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaPresentacion.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaPresentacion.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\es-PE\CapaPresentacion.resources.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaBC.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaBE.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaDA.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaBC.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaBE.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\bin\Release\CapaDA.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.csproj.ResolveComReference.cache
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.Form1.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.frmActividad_Cliente.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCategoria_Cliente.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClienteBuscarxNombre.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.frmClientes.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmClientesBuscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.FrmClientesTab.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_Contacto_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_Lugar_Entrega.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente_PuntoPartida_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmFactura.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmTipo_Cliente.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmAcceso.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Empresa.frmEmpresa.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmMantenimiento_Grupos.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmMantenimiento_Grupo_Actividades.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.Mantenimiemto_Correctivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.Mantenimiemto_Preventivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.MDIMenuOperaciones.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCombustible_Compra.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCombustible_Mant.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Apoyo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Ayudante.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Combustible_Importe.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Gasto.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Nota.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.frmRecojo_Peaje.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmGuia_Transportista.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Detalle.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Recargo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptCombustible.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptMant_Correctivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptMant_Preventivo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenesRecojo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmBuscarLocalidad.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCodigo_Veh.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.frmSerie_Orden_Recojo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmActividad_Proveedor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmCategoria_Proveedor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmProveedorBuscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Proveedores.frmTipo_Proveedor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.frmOrdenRecojo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Properties.Resources.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmAlmacen.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmArticulo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCargo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmColor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmCombustible_Importe.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmConcepto_Factura.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmGasto_Operacion.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmLocalidad.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmMarca_Vehiculo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmPais.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Facturacion.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmSerie_Guia_Remision.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Documento_Identidad.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Producto.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmTipo_Vehiculo.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmUnidad_Medida.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmZona_Geografica.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Tablas.frmVendedor.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Chofer_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTransportista_Vehiculo_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Clientes.frmCliente.es-PE.resources
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.csproj.GenerateResource.Cache
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\RdlCompile.cache
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\RdlCompile.compiled
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\es-PE\CapaPresentacion.resources.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.dll
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.pdb
+C:\Fuentes\Visual C#\SisTrans-V01A\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Combustible_Importe.es-PE.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Recojo.frmRecojo_Combustible_Importe.es-PE.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmMantenimiento_Programado.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Transportista.frmTrabajador.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptMaestro_Personal.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenes_Conductor.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenes_Total_Conductor.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenes_Estado.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenes_Cliente.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmCompra_Lubricantes.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptOrdenes_Vehiculo.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\bin\Release\CapaPresentacion.dll.config
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptCompra_Lubricantes.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmConsumo_Lubricante.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmCompra_Lubricantes_Buscar.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptConsumo_Lubricante.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmCompra_Productos.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptCompra_Productos.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.frmOrdenes_Reportes.resources

@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DFBFCFC3-F697-4C0A-96C4-99E77C1DDFC6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaBC</RootNamespace>
+    <AssemblyName>CapaBC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actividad_ClienteBC.cs" />
+    <Compile Include="Actividad_ProveedorBC.cs" />
+    <Compile Include="AlmacenBC.cs" />
+    <Compile Include="ArticuloBC.cs" />
+    <Compile Include="CargoBC.cs" />
+    <Compile Include="Categoria_ClienteBC.cs" />
+    <Compile Include="Categoria_ProveedorBC.cs" />
+    <Compile Include="ClientesBC.cs" />
+    <Compile Include="Cliente_ContactoBC.cs" />
+    <Compile Include="Cliente_Lugar_EntregaBC.cs" />
+    <Compile Include="Cliente_Punto_PartidaBC.cs" />
+    <Compile Include="ColorBC.cs" />
+    <Compile Include="Combustible_CompraBC.cs" />
+    <Compile Include="Combustible_ImporteBC.cs" />
+    <Compile Include="Compra_LubricantesBC.cs" />
+    <Compile Include="Compra_ProductosBC.cs" />
+    <Compile Include="Compra_Productos_DetalleBC.cs" />
+    <Compile Include="Concepto_FacturaBC.cs" />
+    <Compile Include="ConexionBD.cs" />
+    <Compile Include="Consumo_LubricanteBC.cs" />
+    <Compile Include="Correo_ParametroBC.cs" />
+    <Compile Include="EmpresaBC.cs" />
+    <Compile Include="Factura_CabeceraBC.cs" />
+    <Compile Include="Factura_Carga_CabeceraBC.cs" />
+    <Compile Include="Factura_Carga_Detalle_RecojoBC.cs" />
+    <Compile Include="Forma_PagoBC.cs" />
+    <Compile Include="Gasto_OperacionBC.cs" />
+    <Compile Include="Guia_CabeceraBC.cs" />
+    <Compile Include="Guia_DetalleBC.cs" />
+    <Compile Include="LocalidadBC.cs" />
+    <Compile Include="Maestro_PersonalBC.cs" />
+    <Compile Include="Mantenimiento_CorrectivoBC.cs" />
+    <Compile Include="Mantenimiento_GruposBC.cs" />
+    <Compile Include="Mantenimiento_Grupo_ActividadesBC.cs" />
+    <Compile Include="Mantenimiento_PreventivoBC.cs" />
+    <Compile Include="Mantenimiento_ProgramadoBC.cs" />
+    <Compile Include="Marca_VehiculoBC.cs" />
+    <Compile Include="PaisBC.cs" />
+    <Compile Include="Plan_CuentaBC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ProveedorBC.cs" />
+    <Compile Include="Proveedor_ContactoBC.cs" />
+    <Compile Include="Recojo_Apoyo_CabeceraBC.cs" />
+    <Compile Include="Recojo_AyudanteBC.cs" />
+    <Compile Include="Recojo_Cabecera.cs" />
+    <Compile Include="Recojo_Combustible_ImporteBC.cs" />
+    <Compile Include="Recojo_DetalleBC.cs" />
+    <Compile Include="Recojo_GastoBC.cs" />
+    <Compile Include="Recojo_NotaBC.cs" />
+    <Compile Include="Recojo_PeajeBC.cs" />
+    <Compile Include="Recojo_Recargo_CargaBC.cs" />
+    <Compile Include="Serie_FacturacionBC.cs" />
+    <Compile Include="Serie_Guia_RemisionBC.cs" />
+    <Compile Include="Serie_Orden_RecojoBC.cs" />
+    <Compile Include="TiendaBC.cs" />
+    <Compile Include="Tipo_ClienteBC.cs" />
+    <Compile Include="Tipo_DocumentoBC.cs" />
+    <Compile Include="Tipo_Documento_IdentidadBC.cs" />
+    <Compile Include="Tipo_HonorarioBC.cs" />
+    <Compile Include="Tipo_ProductoBC.cs" />
+    <Compile Include="Tipo_ProveedorBC.cs" />
+    <Compile Include="Tipo_VehiculoBC.cs" />
+    <Compile Include="TransportistaBC.cs" />
+    <Compile Include="Transportista_ChoferBC.cs" />
+    <Compile Include="Transportista_Condicion_ComercialBC.cs" />
+    <Compile Include="Transportista_ContactoBC.cs" />
+    <Compile Include="Transportista_Girar_ABC.cs" />
+    <Compile Include="Transportista_GrupoBC.cs" />
+    <Compile Include="Transportista_NotaBC.cs" />
+    <Compile Include="Transportista_VehiculoBC.cs" />
+    <Compile Include="Unidad_MedidaBC.cs" />
+    <Compile Include="UsuarioBC.cs" />
+    <Compile Include="Usuario_TrabajoBC.cs" />
+    <Compile Include="VendedorBC.cs" />
+    <Compile Include="Zona_GeograficaBC.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaBE\CapaBE.csproj">
+      <Project>{9f527459-6453-4dc9-be88-7121fc1c339a}</Project>
+      <Name>CapaBE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaDA\CapaDA.csproj">
+      <Project>{e30fc8aa-feaa-4d5d-85f7-9a8995ebc8df}</Project>
+      <Name>CapaDA</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

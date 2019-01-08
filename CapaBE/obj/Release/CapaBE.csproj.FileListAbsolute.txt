@@ -1,0 +1,10 @@
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Release\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\bin\Release\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Release\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Release\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\bin\Release\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\bin\Release\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Release\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Release\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBE\obj\Release\CapaBE.csprojResolveAssemblyReference.cache
+C:\Fuentes\Visual C#\SisTrans-V01\CapaBE\obj\Release\CapaBE.csprojResolveAssemblyReference.cache

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetMaestro_Personal" targetNamespace="http://tempuri.org/DataSetMaestro_Personal.xsd" xmlns:mstns="http://tempuri.org/DataSetMaestro_Personal.xsd" xmlns="http://tempuri.org/DataSetMaestro_Personal.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="BD_SIAC_TERAHConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="BD_SIAC_TERAHConnectionString1 (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.CapaPresentacion.Properties.Settings.GlobalReference.Default.BD_SIAC_TERAHConnectionString1" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="V_MAESTRO_PERSONALTableAdapter" GeneratorDataComponentClassName="V_MAESTRO_PERSONALTableAdapter" Name="V_MAESTRO_PERSONAL" UserDataComponentName="V_MAESTRO_PERSONALTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="BD_SIAC_TERAHConnectionString1 (Settings)" DbObjectName="BD_SIAC_TERAH.dbo.V_MAESTRO_PERSONAL" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        PERS_CODIGO, PERS_APELLIDO_PATERNO, PERS_APELLIDO_MATERNO, PERS_NOMBRES, CARG_NOMBRE, PERS_DOCUMENTO, PERS_DIRECCION, LOCA_NOMBRE, PERS_TELEFONO_CASA, PERS_TELEFONO_CELULAR, 
+                         PERS_FECHA_INGRESO, PERS_ESTADO
+FROM            V_MAESTRO_PERSONAL</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PERS_CODIGO" DataSetColumn="PERS_CODIGO" />
+              <Mapping SourceColumn="PERS_APELLIDO_PATERNO" DataSetColumn="PERS_APELLIDO_PATERNO" />
+              <Mapping SourceColumn="PERS_APELLIDO_MATERNO" DataSetColumn="PERS_APELLIDO_MATERNO" />
+              <Mapping SourceColumn="PERS_NOMBRES" DataSetColumn="PERS_NOMBRES" />
+              <Mapping SourceColumn="CARG_NOMBRE" DataSetColumn="CARG_NOMBRE" />
+              <Mapping SourceColumn="PERS_DOCUMENTO" DataSetColumn="PERS_DOCUMENTO" />
+              <Mapping SourceColumn="PERS_DIRECCION" DataSetColumn="PERS_DIRECCION" />
+              <Mapping SourceColumn="LOCA_NOMBRE" DataSetColumn="LOCA_NOMBRE" />
+              <Mapping SourceColumn="PERS_TELEFONO_CASA" DataSetColumn="PERS_TELEFONO_CASA" />
+              <Mapping SourceColumn="PERS_TELEFONO_CELULAR" DataSetColumn="PERS_TELEFONO_CELULAR" />
+              <Mapping SourceColumn="PERS_FECHA_INGRESO" DataSetColumn="PERS_FECHA_INGRESO" />
+              <Mapping SourceColumn="PERS_ESTADO" DataSetColumn="PERS_ESTADO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetMaestro_Personal" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetMaestro_Personal" msprop:Generator_UserDSName="DataSetMaestro_Personal">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="V_MAESTRO_PERSONAL" msprop:Generator_TableClassName="V_MAESTRO_PERSONALDataTable" msprop:Generator_TableVarName="tableV_MAESTRO_PERSONAL" msprop:Generator_TablePropName="V_MAESTRO_PERSONAL" msprop:Generator_RowDeletingName="V_MAESTRO_PERSONALRowDeleting" msprop:Generator_RowChangingName="V_MAESTRO_PERSONALRowChanging" msprop:Generator_RowEvHandlerName="V_MAESTRO_PERSONALRowChangeEventHandler" msprop:Generator_RowDeletedName="V_MAESTRO_PERSONALRowDeleted" msprop:Generator_UserTableName="V_MAESTRO_PERSONAL" msprop:Generator_RowChangedName="V_MAESTRO_PERSONALRowChanged" msprop:Generator_RowEvArgName="V_MAESTRO_PERSONALRowChangeEvent" msprop:Generator_RowClassName="V_MAESTRO_PERSONALRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PERS_CODIGO" msprop:Generator_ColumnVarNameInTable="columnPERS_CODIGO" msprop:Generator_ColumnPropNameInRow="PERS_CODIGO" msprop:Generator_ColumnPropNameInTable="PERS_CODIGOColumn" msprop:Generator_UserColumnName="PERS_CODIGO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_APELLIDO_PATERNO" msprop:Generator_ColumnVarNameInTable="columnPERS_APELLIDO_PATERNO" msprop:Generator_ColumnPropNameInRow="PERS_APELLIDO_PATERNO" msprop:Generator_ColumnPropNameInTable="PERS_APELLIDO_PATERNOColumn" msprop:Generator_UserColumnName="PERS_APELLIDO_PATERNO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_APELLIDO_MATERNO" msprop:Generator_ColumnVarNameInTable="columnPERS_APELLIDO_MATERNO" msprop:Generator_ColumnPropNameInRow="PERS_APELLIDO_MATERNO" msprop:Generator_ColumnPropNameInTable="PERS_APELLIDO_MATERNOColumn" msprop:Generator_UserColumnName="PERS_APELLIDO_MATERNO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_NOMBRES" msprop:Generator_ColumnVarNameInTable="columnPERS_NOMBRES" msprop:Generator_ColumnPropNameInRow="PERS_NOMBRES" msprop:Generator_ColumnPropNameInTable="PERS_NOMBRESColumn" msprop:Generator_UserColumnName="PERS_NOMBRES">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CARG_NOMBRE" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnCARG_NOMBRE" msprop:Generator_ColumnPropNameInRow="CARG_NOMBRE" msprop:Generator_ColumnPropNameInTable="CARG_NOMBREColumn" msprop:Generator_UserColumnName="CARG_NOMBRE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_DOCUMENTO" msprop:Generator_ColumnVarNameInTable="columnPERS_DOCUMENTO" msprop:Generator_ColumnPropNameInRow="PERS_DOCUMENTO" msprop:Generator_ColumnPropNameInTable="PERS_DOCUMENTOColumn" msprop:Generator_UserColumnName="PERS_DOCUMENTO">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_DIRECCION" msprop:Generator_ColumnVarNameInTable="columnPERS_DIRECCION" msprop:Generator_ColumnPropNameInRow="PERS_DIRECCION" msprop:Generator_ColumnPropNameInTable="PERS_DIRECCIONColumn" msprop:Generator_UserColumnName="PERS_DIRECCION">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="60" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LOCA_NOMBRE" msdata:ReadOnly="true" msprop:Generator_ColumnVarNameInTable="columnLOCA_NOMBRE" msprop:Generator_ColumnPropNameInRow="LOCA_NOMBRE" msprop:Generator_ColumnPropNameInTable="LOCA_NOMBREColumn" msprop:Generator_UserColumnName="LOCA_NOMBRE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="40" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_TELEFONO_CASA" msprop:Generator_ColumnVarNameInTable="columnPERS_TELEFONO_CASA" msprop:Generator_ColumnPropNameInRow="PERS_TELEFONO_CASA" msprop:Generator_ColumnPropNameInTable="PERS_TELEFONO_CASAColumn" msprop:Generator_UserColumnName="PERS_TELEFONO_CASA">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_TELEFONO_CELULAR" msprop:Generator_ColumnVarNameInTable="columnPERS_TELEFONO_CELULAR" msprop:Generator_ColumnPropNameInRow="PERS_TELEFONO_CELULAR" msprop:Generator_ColumnPropNameInTable="PERS_TELEFONO_CELULARColumn" msprop:Generator_UserColumnName="PERS_TELEFONO_CELULAR">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PERS_FECHA_INGRESO" msprop:Generator_ColumnVarNameInTable="columnPERS_FECHA_INGRESO" msprop:Generator_ColumnPropNameInRow="PERS_FECHA_INGRESO" msprop:Generator_ColumnPropNameInTable="PERS_FECHA_INGRESOColumn" msprop:Generator_UserColumnName="PERS_FECHA_INGRESO" type="xs:dateTime" />
+              <xs:element name="PERS_ESTADO" msprop:Generator_ColumnVarNameInTable="columnPERS_ESTADO" msprop:Generator_ColumnPropNameInRow="PERS_ESTADO" msprop:Generator_ColumnPropNameInTable="PERS_ESTADOColumn" msprop:Generator_UserColumnName="PERS_ESTADO" type="xs:int" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,30 @@
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\bin\Debug\CapaDA.pdb
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\bin\Debug\CapaBE.dll
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\bin\Debug\CapaBE.pdb
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\obj\Debug\CapaDA.csprojResolveAssemblyReference.cache
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\obj\Debug\CapaDA.dll
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\CapaDA\obj\Debug\CapaDA.pdb
+D:\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll
+D:\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.pdb
+D:\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.dll
+D:\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.pdb
+D:\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.csprojResolveAssemblyReference.cache
+D:\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.dll
+D:\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.csprojResolveAssemblyReference.cache
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\obj\Debug\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll.CodeAnalysisLog.xml
+D:\Fuentes\VisualC#\SisTrans-V01\CapaDA\bin\Debug\CapaDA.dll.lastcodeanalysissucceeded

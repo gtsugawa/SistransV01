@@ -1,0 +1,38 @@
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaBC.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\obj\Debug\CapaBC.csprojResolveAssemblyReference.cache
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\obj\Debug\CapaBC.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\obj\Debug\CapaBC.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaBE.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaDA.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaBE.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\CapaBC\bin\Debug\CapaDA.pdb
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.pdb
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.dll
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.dll
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.pdb
+D:\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.pdb
+D:\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.csprojResolveAssemblyReference.cache
+D:\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.dll
+D:\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.csprojResolveAssemblyReference.cache
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\obj\Debug\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll.CodeAnalysisLog.xml
+D:\Fuentes\VisualC#\SisTrans-V01\CapaBC\bin\Debug\CapaBC.dll.lastcodeanalysissucceeded

@@ -1,0 +1,77 @@
+c:\users\guillermo\documents\visual studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.config
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\SisTrans.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csprojResolveAssemblyReference.cache
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Form1.resources
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Properties.Resources.resources
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csproj.GenerateResource.Cache
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.exe
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaBC.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaBE.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaDA.dll
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaBC.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaBE.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\bin\Debug\CapaDA.pdb
+C:\Users\guillermo\Documents\Visual Studio 2013\Projects\SisTrans-V01\SisTrans\obj\Debug\SisTrans.MDIOperaciones.resources
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.config
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.exe
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.dll
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.dll
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.dll
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.dll
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.pdb
+D:\Visual C#\SisTrans-V01\SisTrans\bin\Debug\es-PE\CapaPresentacion.resources.dll
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csprojResolveAssemblyReference.cache
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Form1.resources
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.MDIOperaciones.resources
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Properties.Resources.resources
+D:\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csproj.GenerateResource.Cache
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.config
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.pdb
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.dll
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.dll
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.dll
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.dll
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.pdb
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.pdb
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.pdb
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.pdb
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\bin\Debug\es-PE\CapaPresentacion.resources.dll
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csprojResolveAssemblyReference.cache
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Form1.resources
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.MDIOperaciones.resources
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Properties.Resources.resources
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csproj.GenerateResource.Cache
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.exe
+C:\fuentes\Visual C#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.config
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.exe
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.dll
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.dll
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.dll
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.dll
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaPresentacion.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaBC.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaBE.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\CapaDA.pdb
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\es-PE\CapaPresentacion.resources.dll
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csprojResolveAssemblyReference.cache
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Form1.resources
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.MDIOperaciones.resources
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.Properties.Resources.resources
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\obj\Debug\SisTrans.csproj.GenerateResource.Cache
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.CodeAnalysisLog.xml
+D:\Fuentes\VisualC#\SisTrans-V01\SisTrans\bin\Debug\SisTrans.exe.lastcodeanalysissucceeded
