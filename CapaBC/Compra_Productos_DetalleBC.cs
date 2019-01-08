@@ -37,6 +37,11 @@ namespace CapaBC
 
             return ClsCompra_Productos_DetalleDA.Listar(nComp_Ide);
         }
+        public static ENResultOperation Listar_Pendientes()
+        {
+
+            return ClsCompra_Productos_DetalleDA.Listar_Pendientes();
+        }
         public static ENResultOperation Buscar_Comprobante(Int32 nComp_Ide)
         {
 

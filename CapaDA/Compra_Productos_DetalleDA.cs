@@ -65,7 +65,7 @@ namespace CapaDA
                 public const string comp_unidad_salida = "@UNIDAD_SALIDA";
                 public const string comp_equivalencia = "@EQUIVALENCIA";
                 public const string comp_valor_unitario = "@VALOR_UNITARIO";
-                public const string cantidad_salida = "@CANTIDAD_SALIDA";
+                public const string cantidad_compra = "@CANTIDAD_COMPRA";
                 public const string estado = "@ESTADO";
             }
 
@@ -81,7 +81,7 @@ namespace CapaDA
                 CMD.Parameters.Add(Parametros_SQL.comp_unidad_salida, SqlDbType.VarChar).Value = Datos.Comp_unidad_salida;
                 CMD.Parameters.Add(Parametros_SQL.comp_equivalencia, SqlDbType.Int).Value = Datos.Comp_equivalencia;
                 CMD.Parameters.Add(Parametros_SQL.comp_valor_unitario, SqlDbType.Decimal).Value = Datos.Comp_valor_unitario;
-                CMD.Parameters.Add(Parametros_SQL.cantidad_salida, SqlDbType.Decimal).Value = Datos.Cantidad_salida;
+                CMD.Parameters.Add(Parametros_SQL.cantidad_compra, SqlDbType.Decimal).Value = Datos.Cantidad_compra;
                 CMD.Parameters.Add(Parametros_SQL.estado, SqlDbType.Int).Value = Datos.Estado;
 
                 CMD.Parameters.Add("@RETURN", SqlDbType.Int);
@@ -104,7 +104,7 @@ namespace CapaDA
                 CMD.Parameters.Add(Parametros_SQL.comp_unidad_salida, SqlDbType.VarChar).Value = Datos.Comp_unidad_salida;
                 CMD.Parameters.Add(Parametros_SQL.comp_equivalencia, SqlDbType.Int).Value = Datos.Comp_equivalencia;
                 CMD.Parameters.Add(Parametros_SQL.comp_valor_unitario, SqlDbType.Decimal).Value = Datos.Comp_valor_unitario;
-                CMD.Parameters.Add(Parametros_SQL.cantidad_salida, SqlDbType.Decimal).Value = Datos.Cantidad_salida;
+                CMD.Parameters.Add(Parametros_SQL.cantidad_compra, SqlDbType.Decimal).Value = Datos.Cantidad_compra;
                 CMD.Parameters.Add(Parametros_SQL.estado, SqlDbType.Int).Value = Datos.Estado;
 
                 CMD.Parameters.Add("@RETURN", SqlDbType.Int);
@@ -143,6 +143,13 @@ namespace CapaDA
                 SqlCommand CMD = new SqlCommand("SELECT * FROM V_COMPRA_PRODUCTOS_DETALLE  WHERE COMP_IDE = @IDE");
 
                 CMD.Parameters.AddWithValue("@IDE", nComp_Ide);
+                return ProcesarSQLDA.Procesar_SQL(CMD);
+
+            }
+            public static ENResultOperation Listar_Pendientes()
+            {
+                SqlCommand CMD = new SqlCommand("SELECT * FROM V_COMPRA_PRODUCTOS_DETALLE WHERE (CANTIDAD_COMPRA - ISNULL(CANTIDAD_SALIDA,0)) > 0 ");
+
                 return ProcesarSQLDA.Procesar_SQL(CMD);
 
             }

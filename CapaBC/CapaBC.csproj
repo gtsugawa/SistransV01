@@ -78,6 +78,7 @@
     <Compile Include="Marca_VehiculoBC.cs" />
     <Compile Include="PaisBC.cs" />
     <Compile Include="Plan_CuentaBC.cs" />
+    <Compile Include="Productos_ConsumoBC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProveedorBC.cs" />
     <Compile Include="Proveedor_ContactoBC.cs" />

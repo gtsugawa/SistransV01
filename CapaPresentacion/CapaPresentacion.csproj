@@ -159,6 +159,12 @@
     <Compile Include="Mantenimiento\frmConsumo_Lubricante.Designer.cs">
       <DependentUpon>frmConsumo_Lubricante.cs</DependentUpon>
     </Compile>
+    <Compile Include="Mantenimiento\frmConsumo_Productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mantenimiento\frmConsumo_Productos.Designer.cs">
+      <DependentUpon>frmConsumo_Productos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Mantenimiento\frmMantenimiento_Grupos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -684,6 +690,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimiento\frmConsumo_Lubricante.resx">
       <DependentUpon>frmConsumo_Lubricante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mantenimiento\frmConsumo_Productos.resx">
+      <DependentUpon>frmConsumo_Productos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Mantenimiento\frmMantenimiento_Grupos.resx">
       <DependentUpon>frmMantenimiento_Grupos.cs</DependentUpon>

@@ -254,3 +254,4 @@ C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.
 C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmCompra_Productos.resources
 C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.rptCompra_Productos.resources
 C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Reportes.frmOrdenes_Reportes.resources
+C:\Fuentes\Visual C#\SisTrans-V01\CapaPresentacion\obj\Release\CapaPresentacion.Mantenimiento.frmConsumo_Productos.resources

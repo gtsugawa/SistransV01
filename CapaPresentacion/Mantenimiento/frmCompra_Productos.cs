@@ -823,7 +823,7 @@ namespace CapaPresentacion.Mantenimiento
             style.BackColor = Color.Honeydew;
             style.ForeColor = Color.Gray;
             //dgv.Columns.Clear();
-            dgv.ColumnCount = 11;
+            dgv.ColumnCount = 12;
             // Setear Cabecera de Columna 
             dgv.Columns[0].Name = "IDE";
             dgv.Columns[0].DataPropertyName = "COMP_IDE";
@@ -864,8 +864,8 @@ namespace CapaPresentacion.Mantenimiento
             dgv.Columns[7].HeaderText = "V.Unitario";
             dgv.Columns[7].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
 
-            dgv.Columns[8].Name = "CANTIDAD_SALIDA";
-            dgv.Columns[8].DataPropertyName = "CANTIDAD_SALIDA";
+            dgv.Columns[8].Name = "CANTIDAD_COMPRA";
+            dgv.Columns[8].DataPropertyName = "CANTIDAD_COMPRA";
             dgv.Columns[8].Width = 100;
             dgv.Columns[8].HeaderText = "Cantidad";
             dgv.Columns[8].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
@@ -876,9 +876,13 @@ namespace CapaPresentacion.Mantenimiento
             dgv.Columns[9].HeaderText = "Total";
             dgv.Columns[9].DefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleRight;
 
-            dgv.Columns[10].Name = "ESTADO";
-            dgv.Columns[10].DataPropertyName = "ESTADO";
+            dgv.Columns[10].Name = "CANTIDAD_SALIDA";
+            dgv.Columns[10].DataPropertyName = "CANTIDAD_SALIDA";
             dgv.Columns[10].Visible = false;
+
+            dgv.Columns[11].Name = "ESTADO";
+            dgv.Columns[11].DataPropertyName = "ESTADO";
+            dgv.Columns[11].Visible = false;
 
         }
         private void Mostrar_Detalle(Int32 nComp_Ide)
@@ -891,7 +895,7 @@ namespace CapaPresentacion.Mantenimiento
 
                 for (int row = 0; row <= dgvDocumento.Rows.Count - 1; row++)
                 {
-                    nCantidad = Convert.ToDecimal(this.dgvDocumento.Rows[row].Cells["CANTIDAD_SALIDA"].Value.ToString());
+                    nCantidad = Convert.ToDecimal(this.dgvDocumento.Rows[row].Cells["CANTIDAD_COMPRA"].Value.ToString());
                     nUnitario = Convert.ToDecimal(this.dgvDocumento.Rows[row].Cells["COMP_VALOR_UNITARIO"].Value.ToString());
                     nTotal += (nCantidad * nUnitario);
                 }
@@ -934,7 +938,7 @@ namespace CapaPresentacion.Mantenimiento
                 txtDetCodigo.Text = ROWG["COMP_CODIGO"].ToString();
                 txtDetDescripcion.Text = ROWG["COMP_DESCRIPCION"].ToString();
                 txtDetPrecio_Unitario.Text = ROWG["COMP_VALOR_UNITARIO"].ToString();
-                txtDetCantidad.Text = ROWG["CANTIDAD_SALIDA"].ToString();
+                txtDetCantidad.Text = ROWG["CANTIDAD_COMPRA"].ToString();
                 nTotal = Convert.ToDecimal(txtDetCantidad.Text) * Convert.ToDecimal(txtDetPrecio_Unitario.Text);
                 txtDetTotal.Text = nTotal.ToString("###,###.00");
                 txtDetTotal.ReadOnly = true;
@@ -1063,7 +1067,7 @@ namespace CapaPresentacion.Mantenimiento
             if (string.IsNullOrEmpty(txtDetPrecio_Unitario.Text)) txtDetPrecio_Unitario.Text = "0";
             TipoBE.Comp_valor_unitario = Convert.ToDecimal(txtDetPrecio_Unitario.Text);
             if (string.IsNullOrEmpty(txtDetCantidad.Text)) txtDetCantidad.Text = "0";
-            TipoBE.Cantidad_salida = Convert.ToDecimal(txtDetCantidad.Text);
+            TipoBE.Cantidad_compra = Convert.ToDecimal(txtDetCantidad.Text);
             TipoBE.Estado = 0;
 
             switch (Operacion_Detalle)

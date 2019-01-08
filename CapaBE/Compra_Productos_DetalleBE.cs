@@ -19,6 +19,7 @@ namespace CapaBE
         string comp_unidad_salida;
         int comp_equivalencia;
         decimal comp_valor_unitario;
+        decimal cantidad_compra;
         decimal cantidad_salida;
         int estado;
 
@@ -34,6 +35,7 @@ namespace CapaBE
         public string Comp_unidad_salida { get; set; }
         public int Comp_equivalencia { get; set; }
         public decimal Comp_valor_unitario { get; set; }
+        public decimal Cantidad_compra { get; set; }
         public decimal Cantidad_salida { get; set; }
         public int Estado { get; set; }
 

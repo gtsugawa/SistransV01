@@ -19,6 +19,7 @@ namespace SisTrans
             {
                 Application.EnableVisualStyles();
                 Application.SetCompatibleTextRenderingDefault(false);
+                Application.Run(new CapaPresentacion.Mantenimiento.frmConsumo_Productos());
                 //Application.Run(new CapaPresentacion.Mantenimiento.frmCompra_Productos());
                 //Application.Run(new CapaPresentacion.Reportes.rptOrdenes_Vehiculo());
                 //Application.Run(new CapaPresentacion.Mantenimiento.frmCompra_Lubricantes_Buscar());
@@ -37,7 +38,7 @@ namespace SisTrans
                 //Application.Run(new CapaPresentacion.Proveedores.frmCombustible_Compra());
                 //Application.Run(new CapaPresentacion.Tablas.frmCodigo_Veh());
                //Application.Run(new MDIMenuOperaciones());
-               Application.Run(new CapaPresentacion.Empresa.frmEmpresa());
+               //Application.Run(new CapaPresentacion.Empresa.frmEmpresa());
                 
             }
             else

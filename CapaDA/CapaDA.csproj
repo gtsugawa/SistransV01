@@ -79,6 +79,7 @@
     <Compile Include="PaisDA.cs" />
     <Compile Include="Plan_CuentaDA.cs" />
     <Compile Include="ProcesarSQLDA.cs" />
+    <Compile Include="Productos_ConsumoDA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ProveedorDA.cs" />
     <Compile Include="Proveedor_ContactoDA.cs" />
