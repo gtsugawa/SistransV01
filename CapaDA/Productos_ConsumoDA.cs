@@ -53,6 +53,8 @@ namespace CapaDA
         {
             public const string nombre_error = "@NOMBRE_ERROR";
             public const string cons_ide = "@IDE";
+            public const string tran_ide = "@TRAN_IDE";
+            public const string tran_vehi_ide = "@TRAN_VEHI_IDE";
             public const string cons_fecha = "@FECHA";
             public const string comp_ide = "@COMP_IDE";
             public const string comp_detalle_ide = "COMP_DETALLE_IDE";
@@ -66,6 +68,8 @@ namespace CapaDA
             CMD.Parameters.Add(Parametros_SQL.nombre_error, SqlDbType.VarChar).Value = "";
             CMD.Parameters.Add(Parametros_SQL.cons_ide, SqlDbType.Int).Value = Datos.Cons_ide;
             CMD.Parameters.Add(Parametros_SQL.cons_fecha, SqlDbType.DateTime).Value = Datos.Cons_fecha;
+            CMD.Parameters.Add(Parametros_SQL.tran_ide, SqlDbType.Int).Value = Datos.Tran_ide;
+            CMD.Parameters.Add(Parametros_SQL.tran_vehi_ide, SqlDbType.Int).Value = Datos.Tran_vehi_ide;
             CMD.Parameters.Add(Parametros_SQL.comp_ide, SqlDbType.Int).Value = Datos.Comp_ide;
             CMD.Parameters.Add(Parametros_SQL.comp_detalle_ide, SqlDbType.Int).Value = Datos.Comp_detalle_ide;
             CMD.Parameters.Add(Parametros_SQL.cons_cantidad, SqlDbType.Decimal).Value = Datos.Cons_cantidad;
@@ -85,6 +89,8 @@ namespace CapaDA
             CMD.Parameters.Add(Parametros_SQL.nombre_error, SqlDbType.VarChar).Value = "";
             CMD.Parameters.Add(Parametros_SQL.cons_ide, SqlDbType.Int).Value = Datos.Cons_ide;
             CMD.Parameters.Add(Parametros_SQL.cons_fecha, SqlDbType.DateTime).Value = Datos.Cons_fecha;
+            CMD.Parameters.Add(Parametros_SQL.tran_ide, SqlDbType.Int).Value = Datos.Tran_ide;
+            CMD.Parameters.Add(Parametros_SQL.tran_vehi_ide, SqlDbType.Int).Value = Datos.Tran_vehi_ide;
             CMD.Parameters.Add(Parametros_SQL.comp_ide, SqlDbType.Int).Value = Datos.Comp_ide;
             CMD.Parameters.Add(Parametros_SQL.comp_detalle_ide, SqlDbType.Int).Value = Datos.Comp_detalle_ide;
             CMD.Parameters.Add(Parametros_SQL.cons_cantidad, SqlDbType.Decimal).Value = Datos.Cons_cantidad;
@@ -139,6 +145,8 @@ namespace CapaDA
 
             CMD.Parameters.Add("@RETURN", SqlDbType.Int);
             CMD.Parameters["@RETURN"].Value = DBNull.Value;
+            CMD.Parameters["@RETURN"].Direction = ParameterDirection.ReturnValue;
+            CMD.Parameters["@RETURN"].Direction = ParameterDirection.ReturnValue;
             CMD.Parameters["@RETURN"].Direction = ParameterDirection.ReturnValue;
             return Productos_ConsumoDA.Acceder(CMD);
         }
